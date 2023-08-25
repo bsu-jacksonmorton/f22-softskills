@@ -61,9 +61,9 @@ Run the run.sh script to create and start the docker containers for the webserve
     $ ./run.sh
 
 ---
-### **Step 4. Navigate To Application In Your Web Browser**
+### **Step 4. Navigate To the Application In Your Web Browser**
 
-View the application in the browser at address localhost:3000/
+View the application in the browser at the address localhost:3000/
 
 ---
 
@@ -78,12 +78,12 @@ Login to the application with the account matching the GDRIVE_EMAIL value you sp
 
 ### **Step 6. Using The Application**
  The application will eventually load the root contents of your Google Drive and you will be able to use
-the application. Be warned that some of the operations can take a while so use the application carefully and responsibily.
+the application. Be warned that some of the operations can take a while so use the application carefully and responsibly.
 
 ---
 
 ## **Cleaning Up**
- When you are finishing running the application run the clean.sh script:
+ When you are finished running the application run the clean.sh script:
 
     $ ./clean.sh
 
